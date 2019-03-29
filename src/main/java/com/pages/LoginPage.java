@@ -18,9 +18,6 @@ public class LoginPage extends Base {
 	
 
 	}
-	public void data() {
-		uname.sendKeys(prop.getProperty("username"));
-	}
 	
 		
 	
